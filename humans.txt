@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> solo_45 <twitter>
 
 # THANKS
 
