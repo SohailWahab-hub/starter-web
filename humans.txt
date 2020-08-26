@@ -7,7 +7,8 @@
 
 # THANKS
 
-    <name>
+    solol
+	email
 
 # TECHNOLOGY COLOPHON
 
