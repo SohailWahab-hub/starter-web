@@ -12,3 +12,7 @@ this is git project using as sample
 
 # introdudvdvfdctdsdsion
 introduction to devoplemntment and operation
+
+#adding new lectures
+1. stash
+2. bash
